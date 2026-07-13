@@ -1,5 +1,3 @@
-[github_profile_README.md](https://github.com/user-attachments/files/29988056/github_profile_README.md)
-
 # Paris R. Sharpe
 
 Charlotte, NC | Founder, strategist, and applied AI builder
